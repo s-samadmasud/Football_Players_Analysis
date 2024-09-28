@@ -15,7 +15,7 @@ conda create -p venv python==Python 3.8.10 -y
 ```bash
 conda activate venv/
 ```
-
+Install requiremments.txt file
 ```bash
 pip install -r requirements.txt
 ```
